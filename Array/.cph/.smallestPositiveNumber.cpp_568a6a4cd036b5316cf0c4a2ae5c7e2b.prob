@@ -1,0 +1,1 @@
+{"name":"Local: smallestPositiveNumber","url":"e:\\CPP\\Array\\smallestPositiveNumber.cpp","tests":[{"id":1608918605504,"input":"6\n0 -9 1 3 -4 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CPP\\Array\\smallestPositiveNumber.cpp","group":"local","local":true}
